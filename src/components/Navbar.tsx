@@ -86,6 +86,7 @@ const Navbar = () => {
         </Box>
         <Button variant="contained">Login</Button>
       </Toolbar>
+      <Box></Box>
     </AppBar>
   );
 };
